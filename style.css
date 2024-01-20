@@ -10,15 +10,25 @@
 }
 
 body {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 100vh;
     background-color: #FFB30F;
 
 }
 
+.heading-text {
+    text-align: center;
+    margin: 0px 0px 38px 0px;
+    padding: 12px;
+    font-size: 52px;
+    height: 5rem;
+    background-color: #2A4494;
+    color: #FCA311;
+    font-weight: 650;
+}
+
 .container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
     text-align: center;
     margin: 2rem;
 }
