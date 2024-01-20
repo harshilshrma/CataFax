@@ -1,11 +1,16 @@
-let URL = "https://cat-fact.herokuapp.com/facts";
+let URL = "https://catfact.ninja/fact?max_length=140";
 const text = document.querySelector("#fax");
 const btn = document.querySelector("#btn");
 
 const getFacts = async () => {
-    let response = await fetch(URL);
-    let data = await response.json();
-    text.innerText = data[0].text;
+    try {
+        let response = await fetch(URL);
+        let data = await response.json();   
+        text.innerText = `${data.fact}`;
+
+    } catch (error) {
+        console.error("Error fetching cat facts:", error);
+    }
 }; 
 
 btn.addEventListener("click", getFacts);
