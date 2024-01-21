@@ -3,7 +3,7 @@
 
 # CataFax 🐈
 
-[<img src="./cat-icon.png" width="50px" alt="rock-icon" target="_main">](https://harshilshrma.github.io/Rock-Paper-Scissors/) <span style="color:blue"><em> (Click on the image to view this project)</em></span>
+[<img src="./cat-icon.png" width="80px" alt="cat-icon" target="_black">](https://harshilshrma.github.io/Rock-Paper-Scissors/) <span style="color:blue"><em> (Click on the image to view this project)</em></span>
 
 <br>
 
