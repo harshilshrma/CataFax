@@ -51,12 +51,22 @@ Here are the key learnings from the CataFax project:
 
 # Conclusion
 
-Thanks for checking out CataFax, where cat facts meet fun! This project was all about exploring cool things with JavaScript, APIs, and making content dynamic. I hope you enjoy the cat facts and maybe learn a little something. More exciting stuff coming soon! 🐱✨
-
-Feel free to dive into the code, contribute, or use it for educational purposes. Your feedback and contributions are immensely valuable.
+Thanks for checking out CataFax, where cat facts meet fun! This project was all about exploring cool things with JavaScript, APIs, and making content dynamic. I hope you enjoy the cat facts and maybe learn a little something. 
 
 <br>
 
+Feel free to dive into the code, contribute, or use it for educational purposes. Your feedback and contributions are immensely valuable.
+
+
+
 <p align="center">
-  <img src="./ending-gif.gif" alt="CataFax GIF" width="50" />
+  <img src="./ending-gif.gif" alt="CataFax GIF" width="250" />
 </p>
+
+
+<p align="center">
+  More exciting stuff coming soon! 🐱✨
+</p>
+
+
+
