@@ -84,10 +84,5 @@ body {
 
     .button-50 {
         font-size: 12px; /* Adjust button font size for smaller screens */
-    }
-
-    .footer-text {
-        margin-top: 40vh;
-    }
-    
+    }   
 }
