@@ -14,3 +14,11 @@ const getFacts = async () => {
 }; 
 
 btn.addEventListener("click", getFacts);
+
+document.addEventListener("DOMContentLoaded", function() {
+    var meowSound = document.getElementById("meowSound");
+
+    btn.addEventListener("click", function() {
+        meowSound.play();
+    });
+});
