@@ -5,9 +5,8 @@ const btn = document.querySelector("#btn");
 const getFacts = async () => {
     try {
         let response = await fetch(URL);
-        let data = await response.json();   
+        let data = await response.json();
         text.innerText = `${data.fact}`;
-
     } catch (error) {
         console.error("Error fetching cat facts:", error);
     }
