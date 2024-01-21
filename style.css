@@ -68,12 +68,26 @@ body {
     transform: translate(2px, 2px);
 }
 
-@media (min-width: 768px) {
-    .button-50 {
-        padding: 12px 23px;
-    }
-}
-
 @media only screen and (max-width: 768px) {
+    body {
+        margin: 2rem; /* Adjust margins for smaller screens */
+    }
+
+    .heading-text {
+        margin: 0 0 60px 0; /* Adjust heading margin for smaller screens */
+        font-size: 3rem; /* Adjust heading font size for smaller screens */
+    }
+
+    #fax {
+        font-size: 1.5rem; /* Adjust font size for smaller screens */
+    }
+
+    .button-50 {
+        font-size: 12px; /* Adjust button font size for smaller screens */
+    }
+
+    .footer-text {
+        margin-top: 40vh;
+    }
     
 }
